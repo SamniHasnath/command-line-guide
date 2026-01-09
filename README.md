@@ -4,16 +4,16 @@
 
 *A complete, practical, and beginner-friendly guide for students, developers, and IT learners.*
 
-## ✨ Why Learn the Command Line?
-
-The **Command Line Interface (CLI)** allows you to interact directly with your operating system using text commands instead of graphical buttons.
-
-### 🚀 Benefits:
-
-- Faster than GUI once mastered
-- Essential for **software development**, **networking**, **cloud**, and **DevOps**
-- Required for servers (Linux servers have no GUI)
-- Improves problem-solving & system understanding
+## Table of Contents
+1. [Navigation](#navigation)
+2. [File & Folder Management](#file--folder-management)
+3. [System & Network Commands](#system--network-commands)
+4. [Searching Files & Content](#searching-files--content)
+5. [Permissions & Security](#permissions--security)
+6. [Package Management](#package-management)
+7. [System Monitoring](#system-monitoring)
+8. [Power-User Shortcuts](#power-user-shortcuts)
+9. [Links & References](#links--references)
 
 > If you can use the terminal confidently, **you are already ahead of most beginners**.
 
@@ -21,7 +21,7 @@ Read more: [Medium article](https://medium.com/@samnaufer0401/master-the-command
 
 ---
 
-## 📍 1. Navigation – Moving Around the File System
+## 1. Navigation – Moving Around the File System
 
 | Task | 🟧 macOS / Linux | 🟦 Windows (CMD / PowerShell) |
 |------|-----------------|------------------------------|
@@ -52,8 +52,6 @@ Read more: [Medium article](https://medium.com/@samnaufer0401/master-the-command
 | Delete folder | `rm -rf folder` | `rmdir /s folder` |
 
 > ⚠️ **Warning:** `rm -rf` and `rmdir /s` permanently delete files and folders.
-
-Learn more in the original article: [Medium link](https://medium.com/@samnaufer0401/master-the-command-line-practical-cli-guide-for-students-developers-60634fb8e788)
 
 ---
 
@@ -88,7 +86,4 @@ Learn more in the original article: [Medium link](https://medium.com/@samnaufer0
 | Change file owner | `chown user:group file` |
 | Run as administrator | `sudo command` |
 
-Windows equivalent (PowerShell):
 
-```powershell
-Start-Process -Verb runAs   # Run as admin
