@@ -4,8 +4,6 @@
 
 *A complete, practical, and beginner-friendly guide for students, developers, and IT learners.*
 
----
-
 ## ✨ Why Learn the Command Line?
 
 The **Command Line Interface (CLI)** allows you to interact directly with your operating system using text commands instead of graphical buttons.
