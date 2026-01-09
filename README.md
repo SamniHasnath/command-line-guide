@@ -12,8 +12,6 @@
 5. [Permissions & Security](#permissions--security)
 6. [Package Management](#package-management)
 7. [System Monitoring](#system-monitoring)
-8. [Power-User Shortcuts](#power-user-shortcuts)
-9. [Links & References](#links--references)
 
 > If you can use the terminal confidently, **you are already ahead of most beginners**.
 
@@ -40,7 +38,7 @@ Read more: [Medium article](https://medium.com/@samnaufer0401/master-the-command
 
 ---
 
-## 📁 2. File & Folder Management
+## 2. File & Folder Management
 
 | Task | 🟧 macOS / Linux | 🟦 Windows |
 |------|-----------------|-----------|
@@ -55,7 +53,7 @@ Read more: [Medium article](https://medium.com/@samnaufer0401/master-the-command
 
 ---
 
-## 🌐 3. System & Network Commands
+## 3. System & Network Commands
 
 | Task | 🟧 macOS / Linux | 🟦 Windows |
 |------|-----------------|-----------|
@@ -66,7 +64,7 @@ Read more: [Medium article](https://medium.com/@samnaufer0401/master-the-command
 
 ---
 
-## 🔎 4. Searching Files & Content
+## 4. Searching Files & Content
 
 | Task | 🟧 macOS / Linux | 🟦 Windows |
 |------|-----------------|-----------|
@@ -77,7 +75,7 @@ Read more: [Medium article](https://medium.com/@samnaufer0401/master-the-command
 
 ---
 
-## 🔐 5. Permissions & Security (macOS/Linux)
+## 5. Permissions & Security (macOS/Linux)
 
 | Task | Command |
 |------|---------|
@@ -86,4 +84,4 @@ Read more: [Medium article](https://medium.com/@samnaufer0401/master-the-command
 | Change file owner | `chown user:group file` |
 | Run as administrator | `sudo command` |
 
-
+## Thank You
